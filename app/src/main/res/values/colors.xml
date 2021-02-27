@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F7E068</color>
+    <color name="colorPrimaryDark">#945A02</color>
+    <color name="colorAccent">#0FCCBC</color>
+    <color name="purppple">#FFFFFF</color>
+    <color name="white">#FDFDFD</color>
+    <color name="yellow_light">#FCE791</color>
+    <color name="yellow_dark">#F7E068</color>
+    <color name="yellow_dark2">#C2A71E</color>
+    <color name="vip">#B69634</color>
+    <color name="click">#1935BF</color>
+    <color name="black">#202020</color>
+    <color name="grey">#EDEDED</color>
+    <color name="grey_light">#DBD9D9</color>
+    <color name="green">#1AB91B</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#007CFF</color>
+    <color name="blue_dark">#27319A</color>
+    <color name="orange">#FF5300</color>
+    <color name="buttooon">#455ACF</color>
+    <color name="gold">#FFA71A</color>
+    <color name="test">#FFFFFF</color>
+    <color name="test1">#0024E3</color>
+    <color name="purple">#3C66E1</color>
+    <color name="purple_dark">#3B4CA8</color>
+    <color name="purple_light"></color>
+
+    <color name="black_light">#212122</color>
+    <color name="nav_view_background">#5360A5</color>
+
+
+</resources>

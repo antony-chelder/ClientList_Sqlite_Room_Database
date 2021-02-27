@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_color_array">
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+    </string-array>
+    <string-array name="text_color_array_values">
+        <item>#FFFFFF</item>
+
+        <item>#F43B3B</item>
+        <item>#F1DF45</item>
+        <item>#7DE348</item>
+    </string-array>
+</resources>

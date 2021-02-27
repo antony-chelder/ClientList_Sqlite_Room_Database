@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/home">
+        <menu android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_client"
+            android:icon="@drawable/ic_client"
+            android:title="@string/client" />
+        <item
+            android:id="@+id/id_special"
+            android:icon="@drawable/ic_important2"
+            android:title="@string/special1" />
+        </menu>
+
+
+    </item>
+
+    <item android:title="@string/importance">
+        <menu android:checkableBehavior="single">
+            <item
+                android:id="@+id/id_important"
+                android:icon="@drawable/ic_important_org"
+                android:title="@string/important" />
+            <item
+                android:id="@+id/id_normal"
+                android:icon="@drawable/ic_loyal_org"
+                android:title="@string/normal" />
+            <item
+                android:id="@+id/id_no_important"
+                android:icon="@drawable/ic_noimport_org"
+                android:title="@string/no_important" />
+        </menu>
+    </item>
+    <item android:title="@string/additional">
+        <menu>
+            <item
+                android:id="@+id/id_settings"
+                android:icon="@drawable/ic_settings"
+                android:title="@string/general_settings" />
+            <item
+                android:id="@+id/id_web"
+                android:icon="@drawable/ic_icon_donation"
+                android:title="@string/web_page" />
+
+        </menu>
+    </item>
+
+</menu>

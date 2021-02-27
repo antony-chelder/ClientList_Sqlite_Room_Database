@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_color_array">
+        <item>White</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+    </string-array>
+    <string-array name="text_color_array_values">
+        <item>#FFFFFF</item>
+
+        <item>#F43B3B</item>
+        <item>#F1DF45</item>
+        <item>#7DE348</item>
+    </string-array>
+    <string-array name="main_text_size_array">
+    <item>Big</item>
+    <item>Middle</item>
+    <item>Small</item>
+    </string-array>
+</resources>

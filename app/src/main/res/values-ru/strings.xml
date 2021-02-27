@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ClientList</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Client List</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="name">*Имя</string>
+    <string name="sec_name">*Фамилия</string>
+    <string name="tel">*Телефон</string>
+    <string name="important">Постоянный</string>
+    <string name="normal">Лояльный</string>
+    <string name="no_important">Обычный</string>
+    <string name="notas">Заметки</string>
+    <string name="special">Приоритетный клиент</string>
+    <string name="special1">Приоритетные клиенты</string>
+    <string name="home"> Главное</string>
+    <string name="client">Клиент</string>
+    <string name="warning_if_empty">Поля с информацией об клиенте не заполнены! </string>
+    <string name="text_empty"> Список пуст</string>
+    <string name="text_no_result"> Нет результатов</string>
+    <string name="importance">Тип клиента</string>
+    <string name="settings">Настройки</string>
+    <string name="general_settings">Настройки оформления</string>
+    <string name="edit_activiy">Клиент</string>
+    <string name="settings_activiy">Настройки</string>
+    <string name="app_names"> Client List</string>
+    <string name="main_activiy">Client List</string>
+    <string name="my_clietns"> Мои Клиенты</string>
+    <string name="additional">Дополнительно</string>
+    <string name="web_page">Поддержка и пожелания</string>
+    <string name="edit">Редактировать</string>
+    <string name="call">Звонок</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_message">Вы действительно хотите удалить клиента?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="text_settings">Настройки цвета текста</string>
+    <string name="text_color_name">Цвет имени клиента</string>
+    <string name="text_color_tel">Цвет телефона клиента</string>
+    <string name="text_color__name_summary">Выберите цвет имени клиента</string>
+    <string name="text_tel__color_summary">Выберите цвет телефона клиента</string>
+    <string name="text_color_sec_name">Цвет фамилии клиента</string>
+    <string name="text_color__sec_name_summary">Выберите цвет фамилии клиента</string>
+    <string name="text_size_big">Крупный</string>
+    <string name="text_size_middle">Обычный</string>
+    <string name="text_size_small">Мелкий</string>
+    <string name="name_text_size">Размер текста имени</string>
+    <string name="secname_text_size">Размер текста фамилии</string>
+    <string name="tel_text_size">Размер текста телефона</string>
+    <string name="text_settings2">Размер шрифта текста</string>
+    <!--KEYS -->
+    <string name="text_name_color_key">text_name_color_key</string>
+    <string name="text_size_key">text_name_color_key</string>
+    <string name="text_sec_name_color_key">text_sec_name_color_key</string>
+    <string name="text_name_size_key">text_name_color_key</string>
+    <string name="text_sec_name_size_key">text_name_color_key</string>
+    <string name="text_tel_size_key">text_name_color_key</string>
+    <string name="text_tel_color_key">text_tel_color_key</string>
+
+
+
+
+
+
+
+
+</resources>
